@@ -1,0 +1,11 @@
+{
+	"type":"mashup",
+	"name":"ODAGMashup",
+	"description":"Allows the user to interact with ODAG seamlessly.",
+	"author":"Fady Heiba",
+	"homepage":"",
+	"keywords":"qlik-sense, visualization, mashup",
+	"license":"",
+	"repository":"",
+	"dependencies":{"qlik-sense":">=1.0.x"}
+}

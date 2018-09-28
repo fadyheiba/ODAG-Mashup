@@ -1,0 +1,48 @@
+/* CSS */
+body, input, textarea{
+  padding: 0px;
+  font-family: 'Calibri', sans-serif;
+}
+.tall{
+ position: absolute;
+ height: 94%;
+ top: 40px;
+ left: 20px;
+ width: 97%;
+/* border-radius: 4px;*/
+border-style:none;
+}
+.short{
+ position: absolute;
+ top: 190px;
+ left: 20px;
+ right: 20px;
+ width: 97%;
+ height: 78%;
+/* border-radius: 4px;*/
+border-style:none;
+}
+
+.thisonepieceoftext {
+  font-size: 13.5px;
+  font-family: 'Calibri', sans-serif;
+}
+
+.header {
+  background-color:#ffffff
+}
+.buttonFady {
+  font-size: .75vw;
+  font-family: 'Calibri', sans-serif !important;
+  background-color: #5A5958;
+  color: #FFFFFF;
+  padding: 0px;
+  border: none;
+  border-radius: 4px;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+.button:hover {
+ background-color:#61A628;
+ box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
